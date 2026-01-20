@@ -1,0 +1,12 @@
+Main role: Planning, coordination, integration
+Responsibilities:
+
+Finalize project scope & features
+
+Divide tasks and track daily progress
+
+Decide dataset format & evaluation criteria
+
+Integrate model + preprocessing + UI
+
+Prepare final report structure
