@@ -1,0 +1,12 @@
+Main role: Core AI/NLP logic
+Responsibilities:
+
+Resume & JD text similarity model
+
+Keyword matching logic
+
+ATS score calculation
+
+NLP pipeline implementation
+
+Fine-tuning thresholds & scoring logic
