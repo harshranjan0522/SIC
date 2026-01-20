@@ -1,0 +1,12 @@
+Main role: Correctness & validation
+Responsibilities:
+
+Research existing resume screeners (ATS systems)
+
+Decide evaluation metrics
+
+Test system with multiple resumes/JDs
+
+Identify errors, edge cases
+
+Prepare comparison tables & observations
