@@ -1,0 +1,12 @@
+Main role: Input quality
+Responsibilities:
+
+Collect resumes (PDF / DOCX / TXT)
+
+Collect job descriptions (IT, Data, Web, Core roles)
+
+Clean & label datasets
+
+Convert files to text
+
+Organize dataset folders
