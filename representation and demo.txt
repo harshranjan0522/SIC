@@ -1,0 +1,10 @@
+Main role: Visuals + explanation
+Responsibilities:
+
+Create PPT (problem → solution → demo → results)
+
+Design simple UI (CLI / Streamlit / Flask basic UI)
+
+Record demo video or live demo flow
+
+Prepare diagrams & flowcharts
